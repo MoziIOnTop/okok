@@ -1,6 +1,6 @@
 {
   "version": 2,
   "functions": {
-    "api/relay.js": { "runtime": "edge", "regions": ["sin1", "hkg1", "bom1"] }
+    "api/relay.js": { "runtime": "edge" }
   }
 }
